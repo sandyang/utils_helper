@@ -1,0 +1,17 @@
+{
+    "name": "weee/comm_helper",
+    "description": "weee comm helper",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Weee\\CommHelper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xianhuo yang",
+            "email": "xianhuo.yang@sayweee.com"
+        }
+    ],
+    "require": {}
+}
